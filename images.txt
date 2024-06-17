@@ -1,3 +1,2 @@
 xiaoyaliu/alist
 ailg/alist
-alist/ggbond
